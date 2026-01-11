@@ -28,3 +28,4 @@ Hands-on experience with responsive UI design
 Practical use of JavaScript for dynamic web behavior
 Experience in project structuring and GitHub usage
 
+<img width="1895" height="979" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/14543bc1-b834-4d47-a3ac-ec7ce610a792" />
